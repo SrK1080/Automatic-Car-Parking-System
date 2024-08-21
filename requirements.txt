@@ -1,0 +1,4 @@
+opencv-python~=4.6.0.66
+numpy~=1.21.6
+np~=1.0.2
+pytest
